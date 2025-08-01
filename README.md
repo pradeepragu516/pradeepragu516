@@ -1,68 +1,88 @@
-✨ Pradeep Mahalingam — Full Stack Developer | AI + IoT Innovator | Tech Explorer
-<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00F5D4&center=true&vCenter=true&width=500&lines=Let's+Connect+and+Build+Together!+🚀;Turning+Ideas+into+Impactful+Solutions" alt="Typing SVG" /> </div>
-👨‍💻 About Me
-Hey! I'm Pradeep Mahalingam, a passionate and purpose-driven Full Stack Developer and AIoT enthusiast working at the intersection of innovation, sustainability, and smart technology.
+<h1 align="center">Hey 👋, I'm Pradeep Mahalingam</h1>
+<h3 align="center">Full Stack Developer | IoT + AI Enthusiast | Open Source Advocate</h3>
 
-🔭 Currently building: Smart Forest Fire Detection System using AI, IoT sensors, LoRa, and Raspberry Pi
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=Let's+Connect+and+Build+Together!+%F0%9F%9A%80;Building+Tech+That+Solves+Real+Problems" alt="Typing SVG" />
+</p>
 
-⚙️ Skilled in MERN Stack, Flutter, Firebase, Python, and Raspberry Pi-based automation
+---
 
-🌱 Learning and integrating Azure Cloud, Design Thinking, and scalable architectures
+### 🔥 About Me
 
-🎯 Active contributor to open-source projects and hackathons
+- 🎓 Final-year tech enthusiast passionate about **problem-solving** and **system design**
+- 🔭 Currently working on a **Smart Forest Fire Detection System** using:
+  - LoRa, Waspmote, Raspberry Pi, AI Models, Automatic Sprinklers
+- 🛠️ Tech Stack: `MERN`, `Django`, `Flutter`, `Firebase`, `MongoDB`, `Python`, `Azure`
+- ✍️ Creator of **CodeCradle**: A content hub for real-time coding ideas and project tips
+- 📫 Reach me at: `pradeepragu@gmail.com`
 
-📢 Sharing real-time coding insights & mini-projects via CodeCradle (Insta/Telegram)
+---
 
-🛠️ Tech Stack
-💻 Languages
-JavaScript · Python · C++ · Dart · SQL
+### 🏆 Achievements & Events
 
-🧰 Frameworks & Tools
-React · Node.js · Express.js · Flutter · Django · Figma · Git · VS Code
+| Project | Description | Role | Prize |
+|--------|-------------|------|-------|
+| **EduViz** | 3D Education Platform | Lead Dev | 🥇 1st Place - Expo |
+| **NammaSpot** | Smart Parking System | System Architect | 🥈 ₹5000 Prize |
+| **Shophify** | Django-based E-commerce | Full Stack Dev | 🏆 Best PBL |
+| **Stacky Sparks** | Team AI/IoT Project | Team Lead | 🥇 1st in Dept Expo |
 
-💾 Databases & Cloud
-MongoDB · Firebase · MySQL · Azure · Netlify · Render
+---
 
-🌐 IoT & Hardware
-Arduino · LoRa · Waspmote · Raspberry Pi · Sensors · Solar-Powered Systems
+### 🌟 Tech Toolbox
 
-🚀 Featured Projects
-🚧 Project	🔍 Description	🛠️ Tech Stack	🏆 Achievement
-EduViz	3D Learning Platform for Engineering & Medicine using Three.js and React	React · Three.js	🥇 1st @ Mini Project Expo
-NammaSpot	Smart Parking Solution with IoT sensors + live tracking	IoT · Node.js · React	🥈 Runner-Up · ₹5,000 Cash
-Shophify	Scalable E-commerce system built with Django	Django · HTML/CSS	🥇 Best PBL Project
-Stacky Sparks	Department-level team project using cloud + collaborative tech stack	Full Stack + Teamwork	🥇 1st @ IT Dept Expo
+#### 🖥️ Languages  
+![JS](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B)
+![Dart](https://img.shields.io/badge/-Dart-black?style=flat-square&logo=dart)
 
-🏆 Achievements & Highlights
-🧠 4x Hackathon Awards · 75% Win Rate
+#### ⚙️ Tools & Frameworks  
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
+![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter)
+![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
 
-💰 ₹5,000+ in Prize Money
+#### ☁️ DevOps & Cloud  
+![Azure](https://img.shields.io/badge/-Azure-black?style=flat-square&logo=microsoft-azure)
+![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)
+![Render](https://img.shields.io/badge/-Render-black?style=flat-square&logo=render)
 
-🌍 Fluent in English & Tamil
+---
 
-✨ Strong Leadership & Event Management
+### 📊 GitHub Analytics
 
-🎥 Building CodeCradle: Real-time coding content platform
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pradeepmahalingam&show_icons=true&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeepmahalingam&layout=compact&theme=radical" height="165" />
+</p>
 
-🧩 Multi-domain explorer: Web · Mobile · IoT · AI
+---
 
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=pradeepmahalingam&show_icons=true&theme=tokyonight" height="165" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeepmahalingam&layout=compact&theme=tokyonight" height="165" /> </p>
-🌐 Competitive Programming Profiles
-LeetCode
+### 🧠 Competitive Coding
 
-HackerRank
+| Platform | Link |
+|----------|------|
+| LeetCode | [Visit](#) |
+| HackerRank | [Visit](#) |
+| CodeChef | [Visit](#) |
+| SkillRack | [Visit](#) |
 
-CodeChef
+---
 
-SkillRack
+### 🤝 Connect With Me
 
-📫 Let's Connect
-💼 LinkedIn
+<p align="left">
+<a href="mailto:pradeepragu@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="#"><img src="https://img.shields.io/badge/Instagram-CodeCradle-purple?style=for-the-badge&logo=instagram&logoColor=white"></a>
+</p>
 
-📷 Instagram (CodeCradle)
+---
 
-📨 Email: pradeepragu@gmail.com
+> _“Success is not final, failure is not fatal: It is the courage to continue that counts.”_
 
-"Success is not final, failure is not fatal: it is the courage to continue that counts."
-— Winston Churchill
+---
+
+📎 Let me know once you upload the image — and I’ll tailor this to **perfectly match your visual expectations**.
