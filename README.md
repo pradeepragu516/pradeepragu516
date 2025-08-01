@@ -77,5 +77,3 @@
 > _“Success is not final, failure is not fatal: It is the courage to continue that counts.”_
 
 ---
-
-📎 Let me know once you upload the image — and I’ll tailor this to **perfectly match your visual expectations**.
