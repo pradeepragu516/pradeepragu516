@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Pradeep Mahalingam</h1>
-<h3 align="center">Full Stack Developer | IoT + AI Enthusiast | Open Source Advocate</h3>
+<h3 align="center">Full Stack Developer | Data Analyst | Mobile App Developer | Tech Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=Let's+Connect+and+Build+Together!+%F0%9F%9A%80;Building+Tech+That+Solves+Real+Problems" alt="Typing SVG" />
@@ -9,12 +9,10 @@
 
 ### 🔥 About Me
 
-- 🎓 Final-year tech enthusiast passionate about **problem-solving** and **system design**
-- 🔭 Currently working on a **Smart Forest Fire Detection System** using:
-  - LoRa, Waspmote, Raspberry Pi, AI Models, Automatic Sprinklers
-- 🛠️ Tech Stack: `MERN`, `Django`, `Flutter`, `Firebase`, `MongoDB`, `Python`, `Azure`
-- ✍️ Creator of **CodeCradle**: A content hub for real-time coding ideas and project tips
-- 📫 Reach me at: `pradeepragu@gmail.com`
+- 🎓 Pre-Final-year tech enthusiast passionate about **problem-solving** and **system design** and **FullStack** and **MobileApp** Developer
+- 🔭 Currently working on a **AI Projects** 
+- 🛠️ Tech Stack: `MERN`, `Flutter`, `Firebase`, `MongoDB`, `Python`
+- 📫 Reach me at: `pradeepragu.77@gmail.com
 
 ---
 
@@ -22,10 +20,7 @@
 
 | Project | Description | Role | Prize |
 |--------|-------------|------|-------|
-| **EduViz** | 3D Education Platform | Lead Dev | 🥇 1st Place - Expo |
-| **NammaSpot** | Smart Parking System | System Architect | 🥈 ₹5000 Prize |
-| **Shophify** | Django-based E-commerce | Full Stack Dev | 🏆 Best PBL |
-| **Stacky Sparks** | Team AI/IoT Project | Team Lead | 🥇 1st in Dept Expo |
+| **CivicFix** | MERN Stack Project | Lead Dev | 🥇 1st Place - Expo |
 
 ---
 
@@ -40,12 +35,11 @@
 #### ⚙️ Tools & Frameworks  
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
 ![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter)
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
 
 #### ☁️ DevOps & Cloud  
-![Azure](https://img.shields.io/badge/-Azure-black?style=flat-square&logo=microsoft-azure)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)
 ![Render](https://img.shields.io/badge/-Render-black?style=flat-square&logo=render)
 
@@ -64,19 +58,18 @@
 
 | Platform | Link |
 |----------|------|
-| LeetCode | [Visit](#) |
-| HackerRank | [Visit](#) |
-| CodeChef | [Visit](#) |
-| SkillRack | [Visit](#) |
+| LeetCode | [Visit](https://leetcode.com/u/pradeepm516/) |
+| HackerRank | [Visit](https://www.hackerrank.com/profile/pradeep_m2023it) |
+| CodeChef | [Visit](https://www.codechef.com/users/pradeepm516) |
+| SkillRack | [Visit](https://www.skillrack.com/faces/ui/profile.xhtml;jsessionid=98C5BC119237B9281F3C0C09B7C49E4E) |
 
 ---
 
 ### 🤝 Connect With Me
 
 <p align="left">
-<a href="mailto:pradeepragu@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/Instagram-CodeCradle-purple?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="mailto:pradeepragu.77@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="http://www.linkedin.com/in/pradeep-mahalingam-603891291"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 ---
