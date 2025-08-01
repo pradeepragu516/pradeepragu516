@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer | Data Analyst | Mobile App Developer | Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=Let's+Connect+and+Build+Together!+%F0%9F%9A%90;Building+Tech+That+Solves+Real+Problems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=Let's+Connect+and+Build+Together!+%F0%9F%9A%90;Solving+Real+Problems" alt="Typing SVG" />
 </p>
 
 ---
