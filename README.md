@@ -35,8 +35,7 @@
 ### 🧠 Core Strengths
 
 - 🧩 **Problem Solver** – I enjoy diving into complex systems and crafting optimal, maintainable solutions.  
-- 📈 **System Designer** – Adept at building architectures that are robust, efficient, and future-ready.  
-- 🔄 **Rapid Prototyper** – Convert ideas into MVPs quickly with an iterative mindset.  
+- 📈 **System Designer** – Adept at building architectures that are robust, efficient, and future-ready.    
 
 ---
 
