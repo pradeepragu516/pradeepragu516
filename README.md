@@ -42,6 +42,7 @@
 ### 🛠 Tech Toolbox
 
 #### 🖥️ Languages  
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 ![JS](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B)
@@ -66,7 +67,7 @@
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-black?style=flat-square&logo=github-actions)
 
 #### 🔗 Others  
-REST APIs, Git, JSON, IoT Protocols
+REST APIs, Git,
 
 ---
 
