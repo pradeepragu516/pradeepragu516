@@ -79,15 +79,6 @@ REST APIs, Git,
 
 ---
 
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pradeepmahalingam&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeepmahalingam&layout=compact&theme=radical" height="165" />
-</p>
-
----
-
 ### 🧠 Competitive Coding
 
 | Platform | Link |
